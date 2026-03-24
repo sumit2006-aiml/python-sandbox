@@ -1,0 +1,61 @@
+Drug,mg,Use,Chemical Formula,Drug Class,Solubility,Melting Point (°C),Half-Life (hours)
+Acetaminophen,500,Pain relief / fever reducer,C8H9NO2,Analgesic,Slightly soluble,169,2-3
+Ibuprofen,400,Pain relief / anti-inflammatory,C13H18O2,NSAID,Poorly soluble,76,2
+Aspirin,325,Pain relief / blood thinner,C9H8O4,NSAID,Slightly soluble,136,3-6
+Atorvastatin,20,Cholesterol management,C33H35FN2O5,Statin,Practically insoluble,159,14
+Metformin,500,Type 2 diabetes management,C4H11N5,Biguanide,Freely soluble,224,6
+Amoxicillin,500,Bacterial infections,C16H19N3O5S,Penicillin antibiotic,Slightly soluble,194,1
+Sertraline,50,Depression / anxiety,C17H17Cl2N,SSRI,Practically insoluble,246,26
+Fluoxetine,20,Depression / OCD,C17H18F3NO,SSRI,Slightly soluble,179,48-96
+Furosemide,40,Fluid retention / hypertension,C12H11ClN2O5S,Loop diuretic,Slightly soluble,206,2
+Clopidogrel,75,Blood clot prevention,C16H16ClNO2S,Antiplatelet,Poorly soluble,136,6
+Omeprazole,20,Acid reflux / GERD,C17H19N3O3S,Proton pump inhibitor,Practically insoluble,155,1
+Losartan,50,Hypertension,C22H23ClN6O,ARB,Poorly soluble,183,2
+Lisinopril,10,Hypertension / heart failure,C21H31N3O5,ACE inhibitor,Freely soluble,174,12
+Hydrochlorothiazide,25,Hypertension / fluid retention,C7H8ClN3O4S2,Thiazide diuretic,Slightly soluble,273,6-15
+Simvastatin,20,Cholesterol management,C25H38O5,Statin,Practically insoluble,139,2
+Levothyroxine,100,Hypothyroidism,C15H11I4NO4,Thyroid hormone,Slightly soluble,260,7
+Gabapentin,300,Nerve pain / seizures,C9H17NO2,Anticonvulsant,Freely soluble,173,5-7
+Alprazolam,0.5,Anxiety / panic disorder,C17H13ClN4,Benzodiazepine,Poorly soluble,228,11
+Diazepam,5,Anxiety / muscle spasms,C16H13ClN2O,Benzodiazepine,Poorly soluble,131,20-50
+Citalopram,20,Depression,C20H21FN2O,SSRI,Slightly soluble,162,35
+Escitalopram,10,Depression / anxiety,C20H21FN2O,SSRI,Slightly soluble,162,27-32
+Duloxetine,30,Depression / neuropathic pain,C18H19NOS,SNRI,Poorly soluble,165,12
+Venlafaxine,75,Depression / anxiety,C17H27NO2,SNRI,Slightly soluble,207,5
+Bupropion,150,Depression / smoking cessation,C13H18ClNO,NDRI,Poorly soluble,233,21
+Trazodone,100,Depression / insomnia,C19H22ClN5O,Antidepressant,Poorly soluble,86,7
+Morphine,10,Pain relief,C17H19NO3,Opioid,Slightly soluble,255,2-3
+Oxycodone,10,Pain relief,C18H21NO4,Opioid,Slightly soluble,220,3-4
+Hydrocodone,10,Pain relief,C18H21NO3,Opioid,Slightly soluble,198,4
+Tramadol,50,Pain relief,C16H25NO2,Opioid analgesic,Slightly soluble,180,6
+Naproxen,500,Pain relief / anti-inflammatory,C14H14O3,NSAID,Poorly soluble,153,12-17
+Prednisone,10,Inflammation / autoimmune disorders,C21H26O5,Corticosteroid,Poorly soluble,233,3-4
+Montelukast,10,Asthma / allergies,C35H36ClNO3S,Leukotriene antagonist,Poorly soluble,110,2.7-5.5
+Cetirizine,10,Allergies,C21H25ClN2O3,Antihistamine,Slightly soluble,232,8
+Loratadine,10,Allergies,C22H23ClN2O2,Antihistamine,Poorly soluble,134,8
+Diphenhydramine,25,Allergies / sleep aid,C17H21NO,Antihistamine,Slightly soluble,168,4-8
+Ranitidine,150,Acid reflux (historical use),C13H22N4O3S,H2 blocker,Freely soluble,140,2-3
+Pantoprazole,40,GERD / acid reflux,C16H15F2N3O4S,Proton pump inhibitor,Poorly soluble,140,1
+Spironolactone,25,Hypertension / fluid retention,C24H32O4S,Diuretic,Poorly soluble,130,1.4
+Propranolol,40,Hypertension / migraine prevention,C16H21NO2,Beta blocker,Slightly soluble,96,3-6
+Metoprolol,50,Hypertension / heart disease,C15H25NO3,Beta blocker,Slightly soluble,120,3-7
+Amlodipine,5,Hypertension,C20H25ClN2O5,Calcium channel blocker,Poorly soluble,199,30-50
+Carvedilol,25,Hypertension / heart failure,C24H26N2O4,Beta blocker,Poorly soluble,114,7-10
+Insulin Glargine,100,Diabetes (long-acting insulin),C267H404N72O78S6,Insulin analog,Soluble in water,N/A,24+
+Insulin Lispro,100,Diabetes (rapid-acting insulin),C257H383N65O77S6,Insulin analog,Soluble in water,N/A,3-5
+Warfarin,5,Blood clot prevention,C19H16O4,Anticoagulant,Poorly soluble,161,20-60
+Apixaban,5,Blood clot prevention,C25H25N5O4,Anticoagulant,Poorly soluble,230,12
+Rivaroxaban,20,Blood clot prevention,C19H18ClN3O5S,Anticoagulant,Poorly soluble,228,5-9
+Methotrexate,10,Autoimmune disorders / cancer,C20H22N8O5,Antimetabolite,Slightly soluble,159,3-10
+Allopurinol,300,Gout,C5H4N4O,Xanthine oxidase inhibitor,Slightly soluble,350,1-2
+Colchicine,0.6,Gout,C22H25NO6,Antigout agent,Poorly soluble,155,9
+Paracetamol,500,Pain relief / fever reducer,C8H9NO2,Analgesic,Slightly soluble,169,2-3
+Erythromycin,250,Bacterial infections,C37H67NO13,Macrolide antibiotic,Slightly soluble,135,1.5
+Azithromycin,250,Bacterial infections,C38H72N2O12,Macrolide antibiotic,Poorly soluble,136,68
+Doxycycline,100,Bacterial infections,C22H24N2O8,Tetracycline antibiotic,Slightly soluble,201,18-22
+Minocycline,100,Bacterial infections,C23H27N3O7,Tetracycline antibiotic,Slightly soluble,225,11-22
+Cephalexin,500,Bacterial infections,C16H17N3O4S,Cephalosporin antibiotic,Freely soluble,178,1
+Ceftriaxone,1000,Bacterial infections,C18H18N8O7S3,Cephalosporin antibiotic,Slightly soluble,159,6-9
+Vancomycin,500,Bacterial infections,C66H75Cl2N9O24, Glycopeptide antibiotic,Slightly soluble,195,4-6
+Linezolid,600,Bacterial infections,C16H20FN3O4,Oxazolidinone antibiotic,Slightly soluble,196,5
+Gentamicin,80,Bacterial infections,C21H43N5O7,Aminoglycoside antibiotic,Freely soluble,N/A,
